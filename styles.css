@@ -1,1 +1,55 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-color: #f5f5f5;
+}
+main{
+	display:flex;
+}
+.navbar{
+	background-color:#011e29;
+}
+h3{
+	color:white;
+	padding:5px;
+	text-align:center;
+	height:35px;
+	padding-top:10px;
+}
+h4{
+	text-align:center;
+}
+.list-1{
+	padding-left:25px;
+}
+.box-1{
+	background-color:white;
+	width:25%;
+	height:20vh;
+	padding:25px;
+	border-radius: 25px;
+	margin-left:2px;
+}
+.box-2{
+	background-color:white;
+	width:30%;
+	height:40vh;
+	padding:25px;
+	border-radius: 25px;
+	margin-left:2px	
+}
+.box-3{
+	background-color:white;
+	width:30%;
+	margin-left:2px;
+	height:85vh;
+	padding:25px;
+	border-radius: 25px;
+}
+img{
+	width:100;
+	height:200
+}
