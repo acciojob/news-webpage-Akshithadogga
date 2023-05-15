@@ -9,17 +9,17 @@ body{
 main{
 	display:flex;
 }
-.navbar{
-	background-color:#011e29;
+header{
+	text-align:center;
+	background-color: #011e29;
 }
-h3{
+h2{
 	color:white;
 	padding:5px;
-	text-align:center;
 	height:35px;
 	padding-top:10px;
 }
-h4{
+h3{
 	text-align:center;
 }
 .list-1{
