@@ -25,11 +25,11 @@ h3{
 .list-1{
 	padding-left:25px;
 }
-.box-1{
+ul{
 	background-color:white;
 	width:25%;
 	height:20vh;
-	padding:25px;
+	padding:5px;
 	border-radius: 25px;
 	margin-left:2px;
 }
@@ -39,7 +39,7 @@ h3{
 	height:40vh;
 	padding:25px;
 	border-radius: 25px;
-	margin-left:2px	
+	margin-left:2px;	
 }
 .box-3{
 	background-color:white;
