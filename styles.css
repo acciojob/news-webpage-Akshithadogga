@@ -25,8 +25,19 @@ ul{
   background-color: white;
   display:inline-block;
   padding: 20px;
+  width:75%;
+ height:20vh;
   border-radius:20px;
+vertical-align:top;
 }
+/* .latest-news-section {
+  vertical-align:top;
+  background-color: white;
+  display:inline-block;
+  width:20%;
+  padding: 20px;
+  border-radius:20px;
+  } */
 .hero-section{
 	background-color:white;
 	width:30%;
@@ -42,4 +53,14 @@ ul{
 	height:85vh;
 	padding:25px;
 	border-radius: 25px;
+	text-align: center;
 }
+/* .pictorial-news-section {
+  vertical-align:top;
+  display:inline-block;
+  background-color: white;
+  width:20%;
+  padding: 20px;
+  text-align: center;
+  border-radius:20px;
+  } */
