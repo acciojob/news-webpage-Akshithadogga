@@ -12,13 +12,15 @@ main{
 header{
 	text-align:center;
 	background-color: #011e29;
+	color:white;
+	padding:15px;
 }
-h2{
+/* h2{
 	color:white;
 	padding:5px;
 	height:35px;
 	padding-top:10px;
-}
+} */
 h3{
 	text-align:center;
 }
@@ -33,10 +35,10 @@ ul{
 	border-radius: 25px;
 	margin-left:2px;
 }
-.box{
-	margin-top:15px;
+.Latest-news-section{
+	margin-top:10px;
 }
-.box-2{
+.hero-section{
 	background-color:white;
 	width:30%;
 	height:40vh;
@@ -44,7 +46,7 @@ ul{
 	border-radius: 25px;
 	margin-left:2px;	
 }
-.box-3{
+.Pictorial-news-section{
 	background-color:white;
 	width:30%;
 	margin-left:2px;
